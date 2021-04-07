@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rocketmanzt.github.io</id>
     <title>Z:^</title>
-    <updated>2021-01-19T06:34:45.082Z</updated>
+    <updated>2021-04-07T07:02:07.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rocketmanzt.github.io"/>
     <link rel="self" href="https://rocketmanzt.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://rocketmanzt.github.io/images/avatar.png</logo>
     <icon>https://rocketmanzt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Z:^</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://rocketmanzt.github.io/post/guan-yu-wo/</id>
+        <link href="https://rocketmanzt.github.io/post/guan-yu-wo/">
+        </link>
+        <updated>2021-01-21T03:00:02.000Z</updated>
+        <content type="html"><![CDATA[<p>这就是我</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奶总牛逼]]></title>
         <id>https://rocketmanzt.github.io/post/zhe-shi-wo-de-biao-ti/</id>
